@@ -3,7 +3,7 @@ date: 2024-07-22
 Topic: Shortcut
 Subtopics: 
 tags:
-  - 🌱
+  - "#Note"
 Links:
   - "[[Selenium]]"
   - "[[Java]]"

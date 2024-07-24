@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"99a9ac74888579d2","type":"text","text":"```dataview\nList from [[Selenium]] AND (#baby or #🌱 )\n```","x":-800,"y":-240,"width":280,"height":260},
+		{"id":"7b278e512a6ffd41","type":"text","text":"```dataview\n LIST from [[Java]] AND (#baby or #🌱 )\n```","x":-500,"y":-240,"width":345,"height":130}
+	],
+	"edges":[]
+}

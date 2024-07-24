@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 - Template/Interview Questions.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b1b7921e2832779d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Full Notes/@Test Attributes.md",
+                "file": "1 - Rough Notes/Java/Strings.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6 - Full Notes/@Test Attributes.md",
+                "file": "1 - Rough Notes/Java/Strings.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 - Full Notes/@Test Attributes.md",
+                "file": "1 - Rough Notes/Java/Strings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 - Full Notes/@Test Attributes.md"
+                "file": "1 - Rough Notes/Java/Strings.md"
               }
             }
           }
@@ -187,10 +173,19 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "b1b7921e2832779d",
+  "active": "bd500c7e0fee3fd5",
   "lastOpenFiles": [
-    "5 - Template/Interview Questions.md",
+    "Pending Notes.canvas",
+    "6 - Full Notes/Shortcuts.md",
+    "Untitled.canvas",
+    "1 - Rough Notes/Selenium/JavaScript Executor.md",
+    "1 - Rough Notes/Selenium/Actions Class.md",
     "1 - Rough Notes/Selenium/Buttons.md",
+    "1 - Rough Notes/Selenium/Capture Screenshot.md",
+    "1 - Rough Notes/Selenium/Select Class.md",
+    "5 - Template/Interview Questions.md",
+    "6 - Full Notes/TestNG Annotations.md",
+    "6 - Full Notes/@Test Attributes.md",
     "1 - Rough Notes/Selenium/Windows.md",
     "1 - Rough Notes/Java/Arrays.md",
     "1 - Rough Notes/Java/Class & object.md",
@@ -201,23 +196,16 @@
     "6 - Full Notes/Opening a Webpage in offline & online.md",
     "1 - Rough Notes/TestNG/DataProvider.md",
     "5 - Template/Main Notes.md",
-    "6 - Full Notes/Annotations.md",
-    "6 - Full Notes/@Test Attributes.md",
     "6 - Full Notes/Dashboard.md",
     "6 - Full Notes/Quit and close in selenium.md",
-    "6 - Full Notes/Shortcuts.md",
     "6 - Full Notes/Timeouts in selenium.md",
     "Selenium.canvas",
-    "Untitled.canvas",
     "6 - Full Notes/File Upload using Selenium Java.md",
     "6 - Full Notes/Wait for File Download.md",
     "6 - Full Notes/Alerts.md",
-    "1 - Rough Notes/Selenium/Wait for File Download.sync-conflict-20240722-180217-JW6BFUX.md",
-    "1 - Rough Notes/Selenium/Wait for File Download.sync-conflict-20240722-175337-JW6BFUX.md",
     "1 - Rough Notes/Selenium/~syncthing~Wait for File Download.sync-conflict-20240722-180217-JW6BFUX.md.tmp",
     "1 - Rough Notes/Selenium/~syncthing~Wait for File Download.sync-conflict-20240722-175337-JW6BFUX.md.tmp",
     "7 - Files/Sujay Raghavendra - Java Testing with Selenium_ A Comprehensive Syntax Guide for Automation-Apress (2024).pdf",
-    "6 - Full Notes/Broken Images.md",
     "com.pieces.os/production/Support",
     "com.pieces.os/production/Pieces",
     "com.pieces.os/production/Backups",
@@ -226,8 +214,6 @@
     "Projects/API/ApiTestingFramework/src/test/java/com/google/rcsApi",
     "Projects/API/ApiTestingFramework/src/test/java/com/google/pojo",
     "7 - Files/Pasted image 20240719231326.png",
-    "6 - Full Notes/Bug Lifecycle.md",
-    "6 - Full Notes/Data Types.md",
     "7 - Files/_23 How to Upload File In Selenium _ 3 Different Ways _ SendKeys _ AutoIT _ RobotPT7M40.837S.webp",
     "Bug lifecycle.canvas",
     "7 - Files/Pasted image 20240715185144.png",
