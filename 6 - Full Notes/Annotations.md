@@ -1,12 +1,18 @@
-
-2024-07-14 05:30
-
-Status: #baby 
-
-Tags: [[TestNG]]
-
+---
+date: 2024-07-24T23:57:00
+Topic: TestNG
+Subtopics: Annotations
+tags:
+  - adult
+  - complete
+  - 🦋
+Links:
+  - "[[TestNG]]"
+Task:
+---
 
 ---
+
 
 # Annotations
 ---
@@ -25,6 +31,10 @@ TestNG has multiple Annotations here are the list of testNG Annotations
 | AfterGroups  | The list of groups that this configuration method will run after. This method is guaranteed to run shortly after the last test method that belongs to any of these groups is invoked.    | `@AfterGroups`  |
 | AfterTest    | The annotated method will be run after all the test methods belonging to the classes inside the <test> tag have run.                                                                     | `@AfterTest`    |
 | AfterSuite   | The annotated method will be run after all tests in this suite have run.                                                                                                                 | `@AfterSuite`   |
+| DataProvider | Marks a method as supplying data for a test method. The annotated method must return an `Object[][]` where each `Object[]`                                                               | `@DataProvider` |
+| Listeners    |                                                                                                                                                                                          | `@Listeners`    |
+| Parameters   |                                                                                                                                                                                          | `@Parameters`   |
+| Factory      |                                                                                                                                                                                          | `@Factory`      |
 
 
 
@@ -55,20 +65,9 @@ TestNG.XML file
 
 
 
-output:
-
-
 
 ---
-
-### Explanation
-
-
-
-
-
-
-
-
 ## References
-https://testng.org/
+- Webpage : https://testng.org/
+- Books   :
+- Videos  :

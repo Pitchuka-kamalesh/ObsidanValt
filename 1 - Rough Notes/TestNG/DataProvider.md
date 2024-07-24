@@ -1,9 +1,13 @@
-
-2024-07-14 05:31
-
-Status:
-
-Tags:
+---
+Created: ""
+Topic: 
+Subtopics: 
+tags: 
+Links:
+  - "[[TestNG]]"
+Task: 
+Modified:
+---
 
 
 ---
@@ -14,26 +18,19 @@ Tags:
 
 
 
----
-
-
-```
-
-```
 
 
 
-output:
+## References
+- Webpage :
+- Books   :
+- Videos  :
 
-```
-
-```
 
 ---
 
-### Explanation
-
-
+# DataProvider
+---
 
 
 
@@ -42,3 +39,6 @@ output:
 
 
 ## References
+- Webpage :
+- Books   :
+- Videos  :

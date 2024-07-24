@@ -6,6 +6,9 @@
     "Subtopics": "text",
     "Todo": "checkbox",
     "Task": "multitext",
-    "Links": "multitext"
+    "Links": "multitext",
+    "date": "datetime",
+    "Created": "datetime",
+    "Modified": "datetime"
   }
 }
