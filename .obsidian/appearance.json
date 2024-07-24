@@ -1,0 +1,14 @@
+{
+  "theme": "obsidian",
+  "cssTheme": "Blue Topaz",
+  "interfaceFontFamily": "JetBrains Mono",
+  "textFontFamily": "JetBrains Mono",
+  "monospaceFontFamily": "JetBrains Mono",
+  "nativeMenus": false,
+  "accentColor": "#35d5fd",
+  "enabledCssSnippets": [
+    "MCL Gallery Cards",
+    "MCL Multi Column",
+    "MCL Wide Views"
+  ]
+}

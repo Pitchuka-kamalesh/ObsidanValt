@@ -1,0 +1,5 @@
+
+[[Selenium]]
+[[Manual]]
+[[TestNG]]
+[[Java]]

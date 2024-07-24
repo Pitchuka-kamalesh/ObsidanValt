@@ -1,0 +1,15 @@
+{
+  "newFileLocation": "folder",
+  "newFileFolderPath": "6 - Full Notes",
+  "showInlineTitle": true,
+  "alwaysUpdateLinks": true,
+  "showRibbon": true,
+  "attachmentFolderPath": "7 - Files",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

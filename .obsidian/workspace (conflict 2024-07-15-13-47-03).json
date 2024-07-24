@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "490cbcb12f612400",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7348b0e32f7c30a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "337e60cd549f3640",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "be4aa8216a306c5f",
+    "type": "split",
+    "children": [
+      {
+        "id": "80af41ad80bf840a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fad15c9b53bdbf95",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0113c771d9eb36db",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "584226d9a0297c3a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "ea5a2d6b402c1850",
+    "type": "split",
+    "children": [
+      {
+        "id": "720b44e1fe72e0d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07db46b482594e12",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "2ed6164354db270e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "8b6375a6c621ec07",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3fbdc372dfe3d10",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e7e440f78955d88a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "145491af9e76004a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6195e65fbeaa04e2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "337e60cd549f3640",
+  "lastOpenFiles": [
+    "5 - Template/Daily Task.md",
+    "5 - Template/Tabs.md",
+    "8 - Tasks/2024-07-14.md",
+    "6 - Full Notes/Building Blocks For Selenium.md",
+    "6 - Full Notes/Data Types.md",
+    "6 - Full Notes/Learno.md",
+    "5 - Template/Metadata.md",
+    "3 - Tags/Selenium.md",
+    "3 - Tags/Untitled.md",
+    "3 - Tags/TestNG.md",
+    "3 - Tags/Java.md",
+    "3 - Tags/Manual Testing.md",
+    "3 - Tags/Apache POI.md",
+    "1 - Rough Notes/TestNG/TestNg Xml file.md",
+    "5 - Template/Main Notes.md",
+    "5 - Template/Interview Questions.md",
+    "5 - Template/indexes.md",
+    "5 - Template/Explanation - code - note.md",
+    "5 - Template/code Notes.md",
+    "1 - Rough Notes/TestNG/Annotations.md",
+    "1 - Rough Notes/Java/Arithmetical Operations.md",
+    "1 - Rough Notes/Selenium/Broken Images.md",
+    "6 - Full Notes/Broken Links.md",
+    "7 - Files/Sujay Raghavendra - Java Testing with Selenium_ A Comprehensive Syntax Guide for Automation-Apress (2024).pdf",
+    "6 - Full Notes/![[Pasted.md",
+    "7 - Files/Pasted image 20240714152006.png",
+    "4 - Indexes/Automation.md",
+    "3 - Tags/Web Automation.md",
+    "7 - Files/Pasted image 20240714145024.png",
+    "5 - Template/Notes flow.canvas",
+    "8 - Tasks",
+    "1 - Rough Notes/Untitled",
+    "2 - Sources Material/TestNG",
+    "2 - Sources Material/Selenium",
+    "2 - Sources Material/RestAssured",
+    "2 - Sources Material/Manual Testing",
+    "2 - Sources Material/Java",
+    "1 - Rough Notes/RestAssured",
+    "1 - Rough Notes/TestNG"
+  ]
+}

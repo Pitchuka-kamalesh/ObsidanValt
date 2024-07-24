@@ -1,0 +1,39 @@
+{
+	"nodes":[
+		{"id":"3afb8023110c6853","x":-1520,"y":-280,"width":250,"height":140,"type":"text","text":"[[Sujay Raghavendra - Java Testing with Selenium_ A Comprehensive Syntax Guide for Automation-Apress (2024).pdf]]"},
+		{"id":"1b387917ff5875e6","x":-1200,"y":-420,"width":250,"height":60,"type":"text","text":"Opening of browser "},
+		{"id":"43437720cbecb2b3","x":-1200,"y":-310,"width":250,"height":60,"type":"text","text":"Offline & Online webpages opening in browser "},
+		{"id":"23dd48e658c7631c","x":-1200,"y":-200,"width":250,"height":60,"type":"text","text":"Closing and quit of browser"},
+		{"id":"90e5a3b60878cc37","x":-1200,"y":-100,"width":250,"height":60,"type":"text","text":"Setting up browser size "},
+		{"id":"c22400a0e137501c","x":-1200,"y":0,"width":250,"height":60,"type":"text","text":"Navigation through Webpages "},
+		{"id":"f9a86b7ac17d2d30","x":-1840,"y":-420,"width":250,"height":60,"type":"text","text":"Actions Class"},
+		{"id":"15c6b6cf7a8629c9","x":-1840,"y":-310,"width":250,"height":60,"type":"text","text":"Mouse Actions"},
+		{"id":"f42517dac0dec6b4","x":-1840,"y":-200,"width":250,"height":60,"type":"text","text":"Mouse Moments"},
+		{"id":"a8ec4ec1bafa28f2","x":-1840,"y":-100,"width":250,"height":60,"type":"text","text":"Keyboard Actions"},
+		{"id":"cb96956cbfdc0c24","x":-1840,"y":0,"width":250,"height":60,"type":"text","text":"WebElements"},
+		{"id":"38443fab2bde951e","x":-1840,"y":100,"width":280,"height":280,"type":"text","text":"Locators\n- ID\n- name\n- tag\n- css selector\n- xpath\n- Link text\n- particle Link Text\n- class Name"},
+		{"id":"e52cf4c08172dbed","x":-1825,"y":520,"width":250,"height":60,"type":"text","text":"css Selector"},
+		{"id":"124c7066f6a6aada","x":-1825,"y":440,"width":250,"height":60,"type":"text","text":"Xpath"}
+	],
+	"edges":[
+		{"id":"43a6cad2df1cc63e","fromNode":"3afb8023110c6853","fromSide":"right","toNode":"1b387917ff5875e6","toSide":"left"},
+		{"id":"130f340dd5a3d915","fromNode":"3afb8023110c6853","fromSide":"right","toNode":"43437720cbecb2b3","toSide":"left"},
+		{"id":"8153d594033ad4ac","fromNode":"3afb8023110c6853","fromSide":"right","toNode":"23dd48e658c7631c","toSide":"left"},
+		{"id":"9f7801c2ed94e17c","fromNode":"3afb8023110c6853","fromSide":"right","toNode":"90e5a3b60878cc37","toSide":"left"},
+		{"id":"c09c3e52be626afb","fromNode":"3afb8023110c6853","fromSide":"right","toNode":"c22400a0e137501c","toSide":"left"},
+		{"id":"f87781075b70d705","fromNode":"3afb8023110c6853","fromSide":"left","toNode":"f9a86b7ac17d2d30","toSide":"right"},
+		{"id":"e09f87fbe6e63a1c","fromNode":"f9a86b7ac17d2d30","fromSide":"left","toNode":"f42517dac0dec6b4","toSide":"left"},
+		{"id":"e133a0e917bd3c92","fromNode":"f9a86b7ac17d2d30","fromSide":"left","toNode":"a8ec4ec1bafa28f2","toSide":"left"},
+		{"id":"6520c6acd64da319","fromNode":"f9a86b7ac17d2d30","fromSide":"left","toNode":"15c6b6cf7a8629c9","toSide":"left"},
+		{"id":"1bfd227ebe7f4444","fromNode":"3afb8023110c6853","fromSide":"left","toNode":"15c6b6cf7a8629c9","toSide":"right"},
+		{"id":"3806936d1f148f67","fromNode":"3afb8023110c6853","fromSide":"left","toNode":"f42517dac0dec6b4","toSide":"right"},
+		{"id":"e19bc1af1651f56f","fromNode":"3afb8023110c6853","fromSide":"left","toNode":"a8ec4ec1bafa28f2","toSide":"right"},
+		{"id":"976f35b9eaa15663","fromNode":"3afb8023110c6853","fromSide":"left","toNode":"cb96956cbfdc0c24","toSide":"right"},
+		{"id":"cf044c4dc17b83c2","fromNode":"cb96956cbfdc0c24","fromSide":"left","toNode":"38443fab2bde951e","toSide":"left"},
+		{"id":"009c9a7ce7ce6259","fromNode":"3afb8023110c6853","fromSide":"left","toNode":"38443fab2bde951e","toSide":"right"},
+		{"id":"779e0c4ff426bf89","fromNode":"38443fab2bde951e","fromSide":"bottom","toNode":"124c7066f6a6aada","toSide":"left"},
+		{"id":"ed2ac5ccef4a7950","fromNode":"38443fab2bde951e","fromSide":"bottom","toNode":"e52cf4c08172dbed","toSide":"left"},
+		{"id":"4a324b5acf93112b","fromNode":"3afb8023110c6853","fromSide":"left","toNode":"124c7066f6a6aada","toSide":"right"},
+		{"id":"9b81e5244b8b0928","fromNode":"3afb8023110c6853","fromSide":"left","toNode":"e52cf4c08172dbed","toSide":"right"}
+	]
+}

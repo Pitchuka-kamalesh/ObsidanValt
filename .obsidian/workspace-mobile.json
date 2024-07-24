@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "09896ce7e90569cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8ba33eac6f4b328",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d782d7d5ad9fb906",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/Shortcuts.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "41326713afb886dd",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "373c5288d94f8203",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "09109a03f58eb5eb",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "9f079cee5439850a",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "5ebb9de2d5a7a607",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "958456c592c752ad",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "6e6bf57e47bd1094",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "6 - Full Notes/Shortcuts.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "de694089e19a37cb",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "6 - Full Notes/Shortcuts.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "e7b6f84e3cc69ac2",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "6 - Full Notes/Shortcuts.md"
+          }
+        }
+      },
+      {
+        "id": "2c386198eadb37fb",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "callout-manager:Insert Callout": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "d782d7d5ad9fb906",
+  "lastOpenFiles": [
+    "Untitled 1.canvas",
+    "6 - Full Notes/Shortcuts.md",
+    "Untitled.canvas",
+    "1 - Rough Notes/TestNG/Test Annotation.md",
+    "1 - Rough Notes/TestNG/Annotations.md",
+    "1 - Rough Notes/TestNG/TestNg Xml file.md",
+    "6 - Full Notes/Dashboard.md",
+    "1 - Rough Notes/Selenium/Wait for File Download.sync-conflict-20240722-180217-JW6BFUX.md",
+    "1 - Rough Notes/Selenium/Wait for File Download.sync-conflict-20240722-175337-JW6BFUX.md",
+    "1 - Rough Notes/Selenium/Wait for File Download.md",
+    "1 - Rough Notes/Selenium/Untitled.md",
+    "6 - Full Notes/Untitled.md",
+    "7 - Files/Books.md",
+    "6 - Full Notes/Operators.md",
+    "6 - Full Notes/Broken Links.md",
+    "5 - Template/Interview Questions.md",
+    "6 - Full Notes/Building Blocks For Selenium.md",
+    "3 - Tags/Selenium.md",
+    "6 - Full Notes/Basic.md",
+    "6 - Full Notes/Bug Lifecycle.md",
+    "1 - Rough Notes/Selenium/Alerts.md",
+    "6 - Full Notes/Data Types.md",
+    "1 - Rough Notes/Java/Operators.md",
+    "1 - Rough Notes/Java/Operators (conflict 2024-07-15-15-05-49).md",
+    "3 - Tags/Java.md",
+    "1 - Rough Notes/RestAssured",
+    "2 - Sources Material",
+    "7 - Files/Core Java Volume I- Fundamentals 9th Edition- Horstmann, Cay S. & Cornell, Gary_2013.pdf",
+    "7 - Files/Sujay Raghavendra - Java Testing with Selenium_ A Comprehensive Syntax Guide for Automation-Apress (2024).pdf",
+    "7 - Files/Core Java Volume II.pdf",
+    "8 - Tasks/2024-07-15.md",
+    "8 - Tasks/2024-07-14.md",
+    "8 - Tasks",
+    "7 - Files/Software-Testing-A-Craftsman-s-Approach-Fourth-Edition-Paul-C-Jorgensen.pdf",
+    "7 - Files/Chauhan, Naresh - Software testing _ principles and practices-Oxford University Press (2010).pdf"
+  ]
+}

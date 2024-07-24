@@ -1,0 +1,42 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "twemoji",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "📃",
+      "LiCoffee",
+      "LiDraftingCompass",
+      "LiAppWindow",
+      "🦹‍♂️",
+      "🤖"
+    ],
+    "recentlyUsedIconsSize": 6,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "debugMode": false
+  },
+  "1 - Rough Notes/Selenium": "🤖",
+  "1 - Rough Notes/Manual Testing": "🦹‍♂️",
+  "1 - Rough Notes/RestAssured": "LiAppWindow",
+  "1 - Rough Notes/TestNG": "LiDraftingCompass",
+  "1 - Rough Notes/Java": "LiCoffee",
+  "1 - Rough Notes": "📃"
+}

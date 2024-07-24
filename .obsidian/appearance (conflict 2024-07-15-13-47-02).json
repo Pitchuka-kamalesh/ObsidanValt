@@ -1,0 +1,9 @@
+{
+  "theme": "obsidian",
+  "cssTheme": "Blue Topaz",
+  "interfaceFontFamily": "JetBrains Mono",
+  "textFontFamily": "JetBrains Mono",
+  "monospaceFontFamily": "JetBrains Mono",
+  "nativeMenus": false,
+  "accentColor": "#99b4f5"
+}

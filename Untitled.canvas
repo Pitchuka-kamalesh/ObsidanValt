@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"8653bbddda04d552","x":-125,"y":-180,"width":250,"height":60,"type":"text","text":"Users (Object)"},
+		{"id":"0bc937ec36540bf8","x":-125,"y":-300,"width":250,"height":60,"type":"text","text":"First name ,Last name "},
+		{"id":"f09faf5420425c70","x":-125,"y":-60,"width":250,"height":60,"type":"text","text":"List"},
+		{"id":"dc65ab56274e626e","x":-440,"y":-90,"width":250,"height":270,"type":"text","text":"public class Users(){\npublic String firstName;\npublic String lastName\n\npublic User(String name,String surname){\nthis.firstName = name;\nthis.lastName = surname;\n}\npublic list sortUsers(){\n\n\n}\n\n}"}
+	],
+	"edges":[
+		{"id":"9b51b86c04eb115c","fromNode":"f09faf5420425c70","fromSide":"right","toNode":"8653bbddda04d552","toSide":"right"},
+		{"id":"2d974b87ea8b538e","fromNode":"0bc937ec36540bf8","fromSide":"left","toNode":"8653bbddda04d552","toSide":"left"},
+		{"id":"13b782d832c050a2","fromNode":"8653bbddda04d552","fromSide":"left","toNode":"dc65ab56274e626e","toSide":"top"}
+	]
+}
