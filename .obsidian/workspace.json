@@ -4,26 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "497bafb65bb4141b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0c0f8b6b9e23c6ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Rough Notes/Java/Strings.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            },
-            "group": "9b5b111fc3c7f994"
-          }
-        ]
-      },
-      {
         "id": "a707f80becded5ff",
         "type": "tabs",
         "children": [
@@ -33,13 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rough Notes/Java/Strings.md",
+                "file": "6 - Full Notes/Dashboard.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
-            },
-            "group": "9b5b111fc3c7f994"
+            }
           }
         ]
       }
@@ -68,8 +47,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ea5a2d6b402c1850",
@@ -118,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Rough Notes/Java/Strings.md",
+                "file": "6 - Full Notes/Dashboard.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Rough Notes/Java/Strings.md",
+                "file": "6 - Full Notes/Dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Rough Notes/Java/Strings.md"
+                "file": "6 - Full Notes/Dashboard.md"
               }
             }
           }
@@ -197,9 +175,10 @@
   },
   "active": "95953709ed65c59f",
   "lastOpenFiles": [
+    "1 - Rough Notes/Java/Strings.md",
+    "6 - Full Notes/Broken Links.md",
     "6 - Full Notes/Select Class.md",
     "6 - Full Notes/Dashboard.md",
-    "1 - Rough Notes/Java/Strings.md",
     "Pending Notes.canvas",
     "6 - Full Notes/Shortcuts.md",
     "Untitled.canvas",

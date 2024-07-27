@@ -9,7 +9,7 @@ Links:
   - "[[Java]]"
 Task:
   - String operations
-Modified: 2024-07-25T19:21:00
+Modified: 2024-07-26T02:35:00
 ---
 
 
@@ -95,9 +95,19 @@ public class Tester{
 
 > [!warning] Note
 >  when you are using two string don't use ***==*** to check whether two string are equals.
->  Example : 
+>  Example : in the above example name and name2 are same but when we are use == sign the result shows false and when use equals it shows true. 
+>  the main reason is name and name2 having different object references that 
+
+
+### ***String API***
+
+ - Strip and trim 
+ - 
+
+
+
 
 ## References
-- Webpage :
-- Books   :
+- Webpage :[String (Java SE 21 & JDK 21) (oracle.com)](https://docs.oracle.com/en/java/javase/21/docs//api/java.base/java/lang/String.html)
+- Books   :[[Core Java Volume I- Fundamentals 9th Edition- Horstmann, Cay S. & Cornell, Gary_2013.pdf]]
 - Videos  :
